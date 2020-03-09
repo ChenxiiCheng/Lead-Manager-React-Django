@@ -1,3 +1,3 @@
-# Lead-Manager-React-Django
+# Lead Manager React Django Projectt
 
-React + Redux + React-Router-Dom + Django Rest Framework
+React + Redux + Django Rest Framework
